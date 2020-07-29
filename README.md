@@ -30,7 +30,7 @@
 
 
 
- [<img src="https://github.com/mayukhsil/mayukhsil/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/bantai.bombil/) | [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/mayukhsil) | [<img src="https://cdn.svgporn.com/logos/dribbble-icon.svg" alt="Dribble Logo" width="28">](https://dribbble.com/mayukhsil) | [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@mayukhsil7) | [<img src="https://github.com/mayukhsil/mayukhsil/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:mayukh.sil7@gmail.com)
+ [<img src="https://github.com/mayukhsil/mayukhsil/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://in.linkedin.com/in/mayukhsil) | [<img src="https://github.com/mayukhsil/mayukhsil/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/bantai.bombil/) | [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/mayukhsil) | [<img src="https://cdn.svgporn.com/logos/dribbble-icon.svg" alt="Dribble Logo" width="28">](https://dribbble.com/mayukhsil) | [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@mayukhsil7) | [<img src="https://github.com/mayukhsil/mayukhsil/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:mayukh.sil7@gmail.com) |
 
 
 
