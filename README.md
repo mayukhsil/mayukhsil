@@ -30,7 +30,7 @@
 
 
 
- [<img src="https://github.com/mayukhsil/mayukhsil/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/mayukhsil)  [<img src="https://github.com/mayukhsil/mayukhsil/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/SilMayukh)  [<img src="https://github.com/mayukhsil/mayukhsil/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/bantai.bombil/)  [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/mayukhsil)  [<img src="https://cdn.svgporn.com/logos/dribbble-icon.svg" alt="Dribble Logo" width="28">](https://dribbble.com/mayukhsil)  [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@mayukhsil7)  [<img src="https://github.com/mayukhsil/mayukhsil/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:mayukh.sil7@gmail.com)
+ [<img src="https://github.com/mayukhsil/mayukhsil/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/bantai.bombil/)  [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/mayukhsil)  [<img src="https://cdn.svgporn.com/logos/dribbble-icon.svg" alt="Dribble Logo" width="28">](https://dribbble.com/mayukhsil)  [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@mayukhsil7)  [<img src="https://github.com/mayukhsil/mayukhsil/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:mayukh.sil7@gmail.com)
 
 
 
@@ -47,9 +47,6 @@
   <a href="https://www.instagram.com/bantai.bombil/">
     <img align="left" alt="Mayukh Sil | Instagram" width="24px" src="https://github.com/mayukhsil/mayukhsil/blob/master/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
-  <a href="mailto:mayukh.sil7@gmail.com">
-    <img align="left" alt="Mayukh Sil | Gmail" width="26px" src="https://github.com/mayukhsil/mayukhsil/blob/master/Assets/Gmail.svg" />
-  </a>
   
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
@@ -88,10 +85,6 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-      <td width="25%" align="center">
         <span>𝗔𝗻𝗱𝗿𝗼𝗶𝗱 𝗦𝘁𝘂𝗱𝗶𝗼</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/android-icon.svg">
       </td>
@@ -104,4 +97,3 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mayukhsil)
 
--->
