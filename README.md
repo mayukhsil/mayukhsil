@@ -1,4 +1,7 @@
 # Mayukh Sil&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+<br>
+[![Twitter Badge](https://img.shields.io/badge/-@SilMayukh-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/SilMayukh)](https://twitter.com/SilMayukh) [![Linkedin Badge](https://img.shields.io/badge/-mayukhsil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayukhsil/)](https://www.linkedin.com/in/mayukhsil/) [![Medium Badge](https://img.shields.io/badge/-@mayukh.sil7-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mayukh.sil7/)](https://medium.com/mayukh.sil7/)
+[![Gmail Badge](https://img.shields.io/badge/-mayukhsil@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mayukh.sil7@gmail.com)](mailto:mayukh.sil7@gmail.com)
 
 <img align="right" alt="PC GIF" src="https://github.com/mayukhsil/mayukhsil/blob/master/Assets/PC.gif" width="190" />
 
@@ -25,12 +28,6 @@
 <img src="https://github.com/mayukhsil/mayukhsil/blob/master/Assets/starwars.gif" alt="Star Wars" width="980">
 
 <br>
-
-# Connect with me<img src="https://github.com/mayukhsil/mayukhsil/blob/master/Assets/Handshake.gif" height="32px">
-
-
-|[<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/mayukhsil) | [<img src="https://cdn.svgporn.com/logos/dribbble-icon.svg" alt="Dribble Logo" width="28">](https://dribbble.com/mayukhsil) | [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@mayukhsil7) | [<img src="https://github.com/mayukhsil/mayukhsil/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:mayukh.sil7@gmail.com) |
-
 
   
 
