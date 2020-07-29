@@ -1,11 +1,13 @@
 # Mayukh Sil&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
+<img align="right" alt="PC GIF" src="https://github.com/mayukhsil/mayukhsil/blob/master/Assets/PC.gif" width="190" />
+
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 <p>
   <em>
     I am a 3rd Year undergraduate from <a href="https://www.svcengg.com/"> <b>Sri Venkateshwara College of Engineering</b>, Bangalore</a>. <br>
-    A <b>Flutter Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>UI/UX Designer,</b>&nbsp;<img src="https://github.com/mayukhsil/mayukhsil/blob/master/Assets/Designer.gif" width="36px"><br>who is <b>obsessed</b>
+    A <b>Flutter Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>UI/UX Designer,</b>&nbsp;<img src="https://github.com/mayukhsil/mayukhsil/blob/master/Assets/Designer.gif" width="36px"><br>and also a Machine Learning Enthusiast, who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
     <b>excel.</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
@@ -61,7 +63,7 @@
   
   
 | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Mayukh Sil | Linkedin" width="34">](https://in.linkedin.com/in/mayukhsil) | [<img src="https://github.com/mayukhsil/mayukhsil/blob/master/Assets/Instagram.svg" alt="instagram logo" width="24">](https://www.instagram.com/bantai.bombil/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/dev.png" alt="dev logo" width="24">](https://dev.to/delta456)| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/deviant_art.jpg" alt="dev logo" width="24">](https://www.deviantart.com/delta2318) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/SilMayukh) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gitlab.png" alt="gitlab logo" width="24">](https://gitlab.com/Delta456) | 
-|---|---|---|---|---|---|---|---|
+|
 
 
 
