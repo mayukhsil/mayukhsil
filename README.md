@@ -38,8 +38,6 @@
 <br>
 
 
-![Dino](https://github.com/mayukhsil/mayukhsil/blob/master/Assets/dino.gif)
-
 <a href="https://in.linkedin.com/in/mayukhsil">
     <img align="left" alt="Mayukh Sil | Linkedin" width="24px" src="https://github.com/mayukhsil/mayukhsil/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
@@ -60,11 +58,11 @@
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>Flutter</span><br><br><br>
+        <span>𝗙𝗹𝘂𝘁𝘁𝗲𝗿</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/flutter.svg">
       </td>
       <td width="25%" align="center">
-        <span>Tensorflow</span><br><br><br>
+        <span>𝗧𝗲𝗻𝘀𝗼𝗿𝗳𝗹𝗼𝘄</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/tensorflow.svg">
       </td>
       <td width="25%" align="center">
@@ -72,18 +70,18 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="25%" align="center">
-        <span>Figma</span><br><br><br>
+        <span>𝗙𝗶𝗴𝗺𝗮</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/figma.svg">
       </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>Adobe XD</span><br><br><br>
+        <span>𝗔𝗱𝗼𝗯𝗲 𝗫𝗗</span><br><br><br>
         <img height="64px" src="https://www.svgrepo.com/show/303109/adobe-xd-logo.svg">
       </td>
       <td width="25%" align="center">
-        <span>Framer</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/framer.svg">
+        <span>𝗙𝗿𝗮𝗺𝗲𝗿</span><br><br><br>
+        <img height="64px" src="https://i.pinimg.com/564x/b8/61/bd/b861bde36e090720f7a5a9f33e664afe.jpg">
       </td>
       <td width="25%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
@@ -92,6 +90,10 @@
       <td width="25%" align="center">
         <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗔𝗻𝗱𝗿𝗼𝗶𝗱 𝗦𝘁𝘂𝗱𝗶𝗼</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/android-icon.svg">
       </td>
     </tr>
     <tr valign="top">
