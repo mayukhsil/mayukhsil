@@ -2,15 +2,15 @@
 
 <img align="right" alt="PC GIF" src="https://github.com/mayukhsil/mayukhsil/blob/master/Assets/PC.gif" width="190" />
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### <img src="https://github.com/mayukhsil/mayukhsil/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/mayukhsil/mayukhsil/blob/master/Assets/Earth.gif" width="24px">
 
 <p>
   <em>
     I am a 3rd Year undergraduate from <a href="https://www.svcengg.com/"> <b>Sri Venkateshwara College of Engineering</b>, Bangalore</a>. <br>
     A <b>Flutter Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>UI/UX Designer,</b>&nbsp;<img src="https://github.com/mayukhsil/mayukhsil/blob/master/Assets/Designer.gif" width="36px"><br>and also a Machine Learning Enthusiast<img src="https://github.com/mayukhsil/mayukhsil/blob/master/Assets/tensorflow.gif" width="20px">, who is <b>obsessed</b>
-    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel.</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
+    with the idea of <b>improving</b> himself and takes all the <b>oppurtunities</b> to 
+    <b>grow</b> <img src="https://github.com/mayukhsil/mayukhsil/blob/master/Assets/Rocket.gif" width="18px">and 
+    <b>excel.</b> <img src="https://github.com/mayukhsil/mayukhsil/blob/master/Assets/Medal.gif" width="20px">
   </em>  
 </p>
 
@@ -79,7 +79,7 @@
     <tr valign="top">
       <td width="25%" align="center">
         <span>Adobe XD</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/adobe.svg">
+        <img height="64px" src="https://www.svgrepo.com/show/303109/adobe-xd-logo.svg">
       </td>
       <td width="25%" align="center">
         <span>Framer</span><br><br><br>
