@@ -1,7 +1,7 @@
 # Mayukh Sil&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
 [![Twitter Badge](https://img.shields.io/badge/-@SilMayukh-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/SilMayukh)](https://twitter.com/SilMayukh) [![Linkedin Badge](https://img.shields.io/badge/-mayukhsil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayukhsil/)](https://www.linkedin.com/in/mayukhsil/) [![Medium Badge](https://img.shields.io/badge/-@mayukh.sil7-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mayukh.sil7/)](https://medium.com/mayukh.sil7/)
-[![Gmail Badge](https://img.shields.io/badge/-mayukhsil@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mayukh.sil7@gmail.com)](mailto:mayukh.sil7@gmail.com)[![Twitter Badge](https://img.shields.io/badge/-@SilMayukh-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/SilMayukh)](https://twitter.com/SilMayukh)
+[![Gmail Badge](https://img.shields.io/badge/-mayukhsil@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mayukh.sil7@gmail.com)](mailto:mayukh.sil7@gmail.com) [![Dribbble Badge](https://img.shields.io/badge/-@SilMayukh-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/SilMayukh)](https://twitter.com/SilMayukh)
 
 
 <img align="right" alt="PC GIF" src="https://github.com/mayukhsil/mayukhsil/blob/master/Assets/PC.gif" width="190" />
