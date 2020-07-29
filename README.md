@@ -7,7 +7,7 @@
 <p>
   <em>
     I am a 3rd Year undergraduate from <a href="https://www.svcengg.com/"> <b>Sri Venkateshwara College of Engineering</b>, Bangalore</a>. <br>
-    A <b>Flutter Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>UI/UX Designer,</b>&nbsp;<img src="https://github.com/mayukhsil/mayukhsil/blob/master/Assets/Designer.gif" width="36px"><br>and also a Machine Learning Enthusiast<img src="https://github.com/mayukhsil/mayukhsil/blob/master/Assets/tensorflow.gif" width="36px">, who is <b>obsessed</b>
+    A <b>Flutter Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>UI/UX Designer,</b>&nbsp;<img src="https://github.com/mayukhsil/mayukhsil/blob/master/Assets/Designer.gif" width="36px"><br>and also a Machine Learning Enthusiast<img src="https://github.com/mayukhsil/mayukhsil/blob/master/Assets/tensorflow.gif" width="20px">, who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
     <b>excel.</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
@@ -31,7 +31,7 @@
 
 
 | [<img src="https://github.com/mayukhsil/mayukhsil/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/mayukhsil) | [<img src="https://github.com/mayukhsil/mayukhsil/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/SilMayukh) | [<img src="https://github.com/mayukhsil/mayukhsil/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/bantai.bombil/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/mayukhsil) | [<img src="https://cdn.svgporn.com/logos/dribbble-icon.svg" alt="Dribble Logo" width="28">](https://dribbble.com/mayukhsil) | [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@mayukhsil7) | [<img src="https://github.com/mayukhsil/mayukhsil/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:mayukh.sil7@gmail.com)
-|
+|---|---|---|---|---|---|---|---|
 
 
 <br>
