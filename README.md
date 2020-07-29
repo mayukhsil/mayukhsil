@@ -29,21 +29,9 @@
 # Connect with me<img src="https://github.com/mayukhsil/mayukhsil/blob/master/Assets/Handshake.gif" height="32px">
 
 
-
- [<img src="https://github.com/mayukhsil/mayukhsil/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://in.linkedin.com/in/mayukhsil) | [<img src="https://github.com/mayukhsil/mayukhsil/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/bantai.bombil/) | [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/mayukhsil) | [<img src="https://cdn.svgporn.com/logos/dribbble-icon.svg" alt="Dribble Logo" width="28">](https://dribbble.com/mayukhsil) | [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@mayukhsil7) | [<img src="https://github.com/mayukhsil/mayukhsil/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:mayukh.sil7@gmail.com) |
-
+|[<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/mayukhsil) | [<img src="https://cdn.svgporn.com/logos/dribbble-icon.svg" alt="Dribble Logo" width="28">](https://dribbble.com/mayukhsil) | [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@mayukhsil7) | [<img src="https://github.com/mayukhsil/mayukhsil/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:mayukh.sil7@gmail.com) |
 
 
-
-<a href="https://in.linkedin.com/in/mayukhsil">
-    <img align="left" alt="Mayukh Sil | Linkedin" width="24px" src="https://github.com/mayukhsil/mayukhsil/blob/master/Assets/Linkedin.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="https://twitter.com/SilMayukh">
-    <img align="left" alt="Mayukh Sil | Twitter" width="26px" src="https://github.com/mayukhsil/mayukhsil/blob/master/Assets/Twitter.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/bantai.bombil/">
-    <img align="left" alt="Mayukh Sil | Instagram" width="24px" src="https://github.com/mayukhsil/mayukhsil/blob/master/Assets/Instagram.svg" />
-  </a> &nbsp;&nbsp;
   
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
