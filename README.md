@@ -20,8 +20,10 @@
 
 <br>
 
+## GitHub Status
 
 ![Mayukh's github stats](https://github-readme-stats.vercel.app/api?username=mayukhsil&show_icons=true&hide_border=true&theme=onedark)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayukhsil&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 
