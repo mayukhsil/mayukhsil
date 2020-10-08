@@ -10,7 +10,7 @@
 <p>
   <em>
     I am a 3rd Year undergraduate from <a href="https://www.svcengg.com/"> <b>Sri Venkateshwara College of Engineering</b>, Bangalore</a>. <br>
-    A <b>Flutter Developer</b> <img src="https://github.com/mayukhsil/mayukhsil/blob/master/Assets/Developer.gif" width="30px">, a<b>UI/UX Designer,</b>&nbsp;<img src="https://github.com/mayukhsil/mayukhsil/blob/master/Assets/Designer.gif" width="36px"><br>and also a <b>Machine Learning Enthusiast</b><img src="https://github.com/mayukhsil/mayukhsil/blob/master/Assets/tensorflow.gif" width="20px">, who is <b>obsessed</b>
+    A <b>Flutter Developer</b> <img src="https://github.com/mayukhsil/mayukhsil/blob/master/Assets/Developer.gif" width="30px">, a <b>UI/UX Designer,</b>&nbsp;<img src="https://github.com/mayukhsil/mayukhsil/blob/master/Assets/Designer.gif" width="36px"><br>and also a <b>Machine Learning Enthusiast</b><img src="https://github.com/mayukhsil/mayukhsil/blob/master/Assets/tensorflow.gif" width="20px">, who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and takes all the <b>oppurtunities</b> to 
     <b>grow</b> <img src="https://github.com/mayukhsil/mayukhsil/blob/master/Assets/Rocket.gif" width="18px">and 
     <b>excel.</b> <img src="https://github.com/mayukhsil/mayukhsil/blob/master/Assets/Medal.gif" width="20px">
