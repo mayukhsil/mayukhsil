@@ -27,14 +27,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayukhsil&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<br>
-
-<img src="https://github.com/mayukhsil/mayukhsil/blob/master/Assets/starwars.gif" alt="Star Wars" width="980">
-
-<br>
-
-  
-
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 <table>
