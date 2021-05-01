@@ -49,26 +49,6 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/figma.svg">
       </td>
     </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗔𝗱𝗼𝗯𝗲 𝗫𝗗</span><br><br><br>
-        <img height="64px" src="https://www.svgrepo.com/show/303109/adobe-xd-logo.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗙𝗿𝗮𝗺𝗲𝗿</span><br><br><br>
-        <img height="64px" src="https://i.pinimg.com/564x/b8/61/bd/b861bde36e090720f7a5a9f33e664afe.jpg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗔𝗻𝗱𝗿𝗼𝗶𝗱 𝗦𝘁𝘂𝗱𝗶𝗼</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/android-icon.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-    </tr>
   </tbody>
 </table>
 
