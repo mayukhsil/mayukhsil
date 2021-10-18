@@ -27,7 +27,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayukhsil&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+## Tools I Use
 
 <table>
   <tbody>
