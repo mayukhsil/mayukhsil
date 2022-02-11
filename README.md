@@ -9,8 +9,7 @@
 
 <p>
   <em>
-    I am a Final Year undergrad student.<br>
-    A <b>Flutter Developer</b> <img src="https://github.com/mayukhsil/mayukhsil/blob/master/Assets/Developer.gif" width="30px">, a <b>UI/UX Designer,</b>&nbsp;<img src="https://github.com/mayukhsil/mayukhsil/blob/master/Assets/Designer.gif" width="36px">, who is <b>obsessed</b>
+    I am a <b>Flutter Developer</b> <img src="https://github.com/mayukhsil/mayukhsil/blob/master/Assets/Developer.gif" width="30px"> and a <b>UI/UX Designer</b>&nbsp;<img src="https://github.com/mayukhsil/mayukhsil/blob/master/Assets/Designer.gif" width="36px">, who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and takes all the <b>oppurtunities</b> to 
     <b>grow</b> <img src="https://github.com/mayukhsil/mayukhsil/blob/master/Assets/Rocket.gif" width="18px">and 
     <b>excel.</b> <img src="https://github.com/mayukhsil/mayukhsil/blob/master/Assets/Medal.gif" width="20px">
